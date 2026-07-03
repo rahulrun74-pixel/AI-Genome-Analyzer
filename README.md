@@ -5,6 +5,9 @@ The **AI Genome Comparative Analyzer** is a Streamlit-based bioinformatics appli
 
 It processes FASTA/FNA files and generates detailed reports including genome statistics, GC content, mutation analysis, protein translation, codon usage, and AI-based biological interpretation.
 
+## LIVE DEMO 
+https://ai-genome-analyzer-cqf5vncs64uxxazcqmbvmu.streamlit.app/
+
 ---
 
 ## ✨ Features
